@@ -1,0 +1,5 @@
+name: h2                    
+port: 60001                
+root: C:/Users/咸鱼/Desktop/pns/h2root          
+secret: 123            
+tracker: 127.0.0.1:60000    
