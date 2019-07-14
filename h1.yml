@@ -1,5 +1,5 @@
 name: h1                    
-port: 60000                 
+port: 9000               
 root: C:/Users/咸鱼/Desktop/pns/h1root            
 secret: 123            
 # tracker: 10.1.2.3:60000     

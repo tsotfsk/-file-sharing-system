@@ -1,5 +1,0 @@
-name: h3                    
-port: 60002                 
-root: C:/Users/咸鱼/Desktop/pns/h3root          
-secret: 123            
-tracker: 127.0.0.1:60000     
